@@ -12,6 +12,7 @@ taxonomy:
     tag: [journal, photography]
 ---
 
+# H1 Heading `40px`</small>`
 
 The [Quark theme](https://getgrav.org/downloads/themes) has the ability to allow pages to override some of the default options by letting the user set `body_classes` for any page.  The theme will merge the combination of the defaults with any `body_classes` set. This allows you to easily add hero classes to give your blog post some **bling**.
 
