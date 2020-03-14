@@ -11,6 +11,24 @@ taxonomy:
     tag: [jenkins, pipeline, fluxo, devops, centos]
 ---
 
+
+[ui-tabs position="top-left" active="0" theme="lite"]
+[ui-tab title="Jenkins"]
+
+In tempor sed sapien eu porttitor. Aliquam cursus facilisis ante. Etiam neque nunc, blandit vel lacus et, faucibus accumsan lacus. Proin posuere varius purus quis faucibus. Quisque et enim vitae orci [placerat tincidunt](#) id ac eros. Fusce et gravida libero. 
+
+Phasellus cursus odio ex, in **mattis lorem tincidunt** vel. Donec nibh odio, dapibus non ligula a, semper ornare massa. Nulla consectetur eu nunc sed ultrices. Integer at turpis dolor.
+
+[/ui-tab]
+[ui-tab title="Apache"]
+
+In tempor sed sapien **eu porttitor**. Aliquam cursus facilisis ante. Etiam neque nunc, blandit vel lacus et, faucibus accumsan lacus. Proin posuere varius purus quis faucibus. [Quisque et enim](#) vitae orci placerat tincidunt id ac eros. Fusce et gravida libero. 
+
+Phasellus cursus odio ex, in mattis lorem tincidunt vel. [Donec nibh odio](#), dapibus non ligula a, semper ornare massa. Nulla consectetur eu nunc sed ultrices. Integer at turpis dolor.
+
+[/ui-tab]
+[/ui-tabs]
+
 Bom pessoal, eu decidi escrever um código dias atrás, para implementação de ambiente em cloud pública, no caso deste artigo, AWS, bom, não preciso dizer do que se trata a AWS, então, vamos la.
 
 Para este setup e configuração, estou considerando o abaixo :
