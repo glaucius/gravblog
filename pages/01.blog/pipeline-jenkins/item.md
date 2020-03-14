@@ -29,6 +29,10 @@ Phasellus cursus odio ex, in mattis lorem tincidunt vel. [Donec nibh odio](#), d
 [/ui-tab]
 [/ui-tabs]
 
+[fa=cog /] Simplest Format
+
+
+
 Bom pessoal, eu decidi escrever um código dias atrás, para implementação de ambiente em cloud pública, no caso deste artigo, AWS, bom, não preciso dizer do que se trata a AWS, então, vamos la.
 
 Para este setup e configuração, estou considerando o abaixo :
