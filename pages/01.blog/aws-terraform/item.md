@@ -27,3 +27,10 @@ No meu repositório no Github você pode obter os códigos, vai la !!!
 git clone https://github.com/glaucius/aws-terraform.git
 
 Até o próximo.
+
+
+
+189.45.218.12/32
+
+
+e
