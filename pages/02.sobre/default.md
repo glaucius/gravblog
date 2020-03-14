@@ -4,8 +4,6 @@ date: '13:26 01-03-2020'
 taxonomy:
     tag:
         - sobre
-    author:
-        - 'Glaucius Djalma Pereira Junior'
 hide_git_sync_repo_link: false
 ---
 
