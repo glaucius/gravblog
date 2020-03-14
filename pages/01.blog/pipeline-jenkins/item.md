@@ -29,7 +29,7 @@ Phasellus cursus odio ex, in mattis lorem tincidunt vel. [Donec nibh odio](#), d
 [/ui-tab]
 [/ui-tabs]
 
-[fa=cog /] Simplest Format
+[size="30"][fa=cog /] Simplest Format [/size]
 
 
 
