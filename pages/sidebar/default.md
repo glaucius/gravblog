@@ -5,8 +5,6 @@ visible: false
 position: top
 ---
 
-#### Markdown Area
+#### Confira também o meu twitter
 
-Some text here.
-
-[twitter url="https://twitter.com/hibbittsdesign" text="Tweets by @hibbittsdesign" height="600"]
+[twitter url="https://twitter.com/glauciusjunior" text="Tweets by @glauciusjunior" height="600"]
