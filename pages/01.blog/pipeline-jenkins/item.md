@@ -1,5 +1,5 @@
 ---
-title: Infra estrutura em código ? não diga bobagens, como assim ?
+title: Pipeline e devops com jenkins
 author: Glaucius Djalma Pereira Junior
 
 hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large parallax
@@ -8,7 +8,7 @@ show_sidebar: true
 
 taxonomy:
     category: blog
-    tag: [jenkins, pipeline, fluxo, devops]
+    tag: [jenkins, pipeline, fluxo, devops, centos]
 ---
 
 Bom pessoal, eu decidi escrever um código dias atrás, para implementação de ambiente em cloud pública, no caso deste artigo, AWS, bom, não preciso dizer do que se trata a AWS, então, vamos la.
