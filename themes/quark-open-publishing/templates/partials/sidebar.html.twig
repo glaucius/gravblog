@@ -4,6 +4,7 @@
 {% set sidebar_page = pages.find('/sidebar') %}
 {% set sidebar_page_content =  sidebar_page.content %}
 
+{% include 'latest-tweets/templates/partials/latest-tweets.html.twig' %}
 
 {% if config.plugins.simplesearch.enabled %}
     <div class="sidebar-content">
