@@ -12,3 +12,5 @@ Olá, me chamo Glaucius, e tenho alguns anos de experiência e mão na massa em 
 Se voçe se interessa pelos temas deste blog, chegou no lugar certo, pretendo escrever e publicar experiẽncias e códigos nas áreas de IaC (infra as a code), esteiras e pipelines devops, automação em ambientes Linux e afins.
 
 Acho que é isso por hora !! obrigado
+
+All right !!!
