@@ -3,7 +3,7 @@ title: Pipeline e devops com jenkins
 author: Glaucius Djalma Pereira Junior
 
 hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large parallax
-hero_image: pipeline.jpg
+hero_image: pipeline-glaucius.jpg
 show_sidebar: true
 
 taxonomy:
