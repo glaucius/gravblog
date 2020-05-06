@@ -24,5 +24,5 @@ feed:
 pagination: true
 ---
 
-# Blog do **Glaucius** Junior, bem vindo.
+# Apenas mais um blog
 ## Clouds, devops, IaC, IaaS, ci/cd e um mundo de siglas.
