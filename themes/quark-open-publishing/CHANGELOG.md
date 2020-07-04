@@ -1,3 +1,29 @@
+# v2.1.4
+## 07/03/2020
+
+1. [](#new)
+    * Added GoogleSlides Shortcode ([googleslides url=""]), with aspect option ([googleslides url="" aspectratio="4-3"]), to display embedded Google Slides
+1. [](#updated)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.1.3
+## 05/23/2020
+
+1. [](#improved)
+    * Updated inherited theme file paths for multisite compatibility
+
+# v2.1.2
+## 04/30/2020
+
+1. [](#bugfix)
+  * Added missing closing paragraph tag on `sections` page types (thanks to @lazybadger for finding the issue)
+
+# v2.1.1
+## 04/27/2020
+
+1. [](#new)
+  * Added support for optional display of title links for `embedlycard` page types
+
 # v2.1.0
 ## 02/13/2020
 
