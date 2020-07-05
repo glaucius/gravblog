@@ -1,8 +1,9 @@
 ---
 title: Home
+date: '07/05/2020 09:57 am'
 hide_git_sync_repo_link: false
 body_classes: 'header-dark header-transparent'
-hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax col-md-4'
 hero_image: cloud22.jpg
 blog_url: /blog
 show_sidebar: true
@@ -29,5 +30,4 @@ custom: 'new thing'
 pagination: true
 ---
 
-# Moon Ops
 ## "There is no dark side of the moon, really, matter of fact it's all dark"
