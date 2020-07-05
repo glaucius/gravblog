@@ -31,3 +31,8 @@ pagination: true
 ---
 
 ## "There is no dark side of the moon, really, matter of fact it's all dark"
+.g-grid
+    .g-block.size-50
+        [your content for left column]
+    .g-block.size-50
+        [your content for right column]
