@@ -1,5 +1,17 @@
 ---
 title: Home
+textsize:
+    scale: ''
+    modifier: '1'
+style:
+    header-font-family: ''
+    header-color: ''
+    block-font-family: ''
+    block-color: ''
+    background-color: ''
+    background-image: ''
+    background-size: ''
+    background-repeat: ''
 date: '07/05/2020 09:57 am'
 body_classes: 'header-dark header-transparent'
 hide_git_sync_repo_link: false
