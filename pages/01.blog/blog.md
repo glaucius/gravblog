@@ -1,5 +1,12 @@
 ---
 title: Home
+child_type: default
+process:
+    markdown: false
+    twig: false
+robots:
+    noindex: false
+    nofollow: false
 textsize:
     scale: ''
     modifier: '1'
